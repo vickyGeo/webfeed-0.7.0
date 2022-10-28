@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/witochandra/webfeed.svg?branch=master)](https://travis-ci.org/witochandra/webfeed)
 [![Pub](https://img.shields.io/pub/v/webfeed.svg)](https://pub.dartlang.org/packages/webfeed)
 
+This is a copy of the official [webfeed](https://pub.dev/packages/webfeed) package. I copied it just to adjust few things and use it. I have no intention of making any type of profit out of this code-source.
+
 A dart package for parsing RSS and Atom feed.
 
 ### Features
